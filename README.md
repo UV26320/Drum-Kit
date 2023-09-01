@@ -28,7 +28,7 @@ The Drum Kit project is a web-based musical instrument built using JavaScript. I
 
 4. You can play drum sounds in two ways:
 
-   - **Keyboard:** Press the keys displayed on the drum buttons (A, S, D, F, G, H, J, K, L).
+   - **Keyboard:** Press the keys displayed on the drum buttons (W, A, S, D, J, K, L).
    - **Mouse:** Click on the drum buttons on the screen.
 
 5. Enjoy creating your own drum beats!
